@@ -16,12 +16,6 @@ if (keyboard_check_pressed(vk_escape))
 		default: room = rMenu; break;
 		case rMenu: if (oGui.menu_page != 0) oGui.alarm[3] = 1; break;
 	}
-
-	global.game_score = 0;
-	frame = 0;
-	timer = 0;
-	last_move = 3;
-	ds_queue_clear(move_list);
 }
 
 #endregion

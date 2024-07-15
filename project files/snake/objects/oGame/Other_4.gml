@@ -10,4 +10,11 @@ if (room == r0)
 		node = node.prev;
 	}
 	tail = node;
+	
+	// reset the room
+	global.game_score = 0;
+	frame = 0;
+	timer = 0;
+	last_move = 3;
+	ds_queue_clear(move_list);
 }
