@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sPixel","order":1,"path":"sprites/sPixel/sPixel.yy",},
+    {"name":"sApple","order":3,"path":"sprites/sApple/sApple.yy",},
+    {"name":"snGameOver","order":1,"path":"sounds/snGameOver/snGameOver.yy",},
+    {"name":"fBitCell","order":1,"path":"fonts/fBitCell/fBitCell.yy",},
+    {"name":"oNode","order":1,"path":"objects/oNode/oNode.yy",},
+    {"name":"oGame","order":2,"path":"objects/oGame/oGame.yy",},
+    {"name":"oGui","order":3,"path":"objects/oGui/oGui.yy",},
+    {"name":"rSetup","order":1,"path":"rooms/rSetup/rSetup.yy",},
+    {"name":"rMenu","order":3,"path":"rooms/rMenu/rMenu.yy",},
+    {"name":"r0","order":5,"path":"rooms/r0/r0.yy",},
+    {"name":"rgameover","order":7,"path":"rooms/rgameover/rgameover.yy",},
+  ],
+}

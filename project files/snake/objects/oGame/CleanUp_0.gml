@@ -1,0 +1,1 @@
+ds_queue_destroy(move_list);
